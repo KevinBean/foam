@@ -7,7 +7,7 @@ module.exports = {
   pathPrefix: PATH_PREFIX || `/foam-template-gatsby-kb`, // b. If you are using Netlify/Vercel, your can keep it this way
   siteMetadata: {
     // some SEO configs using by gatsby-theme-kb
-    title: `Foam`, // Replace it with your site's title
+    title: `Test Site`, // Replace it with your site's title
     author: `Kevin`, // Replace it with your name
     description: `My personal knowledge base`, // Replace it with your site's description
   },
