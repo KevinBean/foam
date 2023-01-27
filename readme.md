@@ -2,6 +2,9 @@
 
 👋 Welcome to your new Foam Workspace!
 
+# test notes in folder
+[[test1]]
+
 ## Getting started
 
 This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/MacOS/Windows machine.
